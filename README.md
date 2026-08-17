@@ -1,4 +1,8 @@
-# Sistema de biblioteca
+# Sistema de Biblioteca
+
+Autor: Lívia oliveira
+
+Licença: MIT
 
 Sistema desktop desenvolvido em Typescript para biblioteca
 
